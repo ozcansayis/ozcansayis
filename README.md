@@ -1,17 +1,20 @@
-# Hello, I'm Özcan 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&color=49C300&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Mehmet+%C3%96zcan+Say%C4%B1%C5%9F" alt="Typing SVG" />
+  </a>
+</h1>
+<h3 align="center">A passionate SDET from Türkiye 🇹🇷</h3>
+<br/>
 
 ## 👨‍💻 About Me
-I'm currently sharpening my skills in a Software Development Engineer in Test (SDET) bootcamp, diving deep into Java, HTML, Selenium WebDriver, JUnit, and TestNG. While I'm still on my learning journey, I'm eager to apply my growing knowledge in real-world projects and collaborate with others who share my enthusiasm for technology.
+I'm immersed in a Software Development Engineer in Test (SDET) bootcamp, honing my skills in Java, HTML, Selenium WebDriver, JUnit, and TestNG. I'm excited about applying what I learn in real-world projects and collaborating with like-minded individuals.
+<hr/>
 
-## 🌱 I’m currently learning
-- **Java**: Focused on mastering Java for test automation and backend development.
-- **HTML**: Understanding the structure of web pages to better test web applications.
-- **Selenium WebDriver**: Learning to automate web application testing.
-- **JUnit & TestNG**: Strengthening my skills in testing frameworks to write more efficient and reliable tests.
-
-
-## 📚 I'm a Student
-As a dedicated learner, I'm open to collaborative projects and learning opportunities that will push my boundaries and deepen my expertise.
-
-
-Feel free to browse my projects and reach out through GitHub issues or pull requests if you'd like to collaborate or share feedback. Happy coding!
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,html,css,selenium,git,github,idea,discord,notion"/><br>
+  </a>
+</div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ozcansayis.ozcansayis" />
