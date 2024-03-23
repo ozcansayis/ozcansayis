@@ -7,7 +7,7 @@
 <br/>
 
 ## 👨‍💻 About Me
-I'm immersed in a Software Development Engineer in Test (SDET) bootcamp, honing my skills in Java, HTML, Selenium WebDriver, JUnit, and TestNG. I'm excited about applying what I learn in real-world projects and collaborating with like-minded individuals.
+I'm immersed in a Software Development Engineer in Test (SDET) bootcamp, honing my skills in Java, HTML, Selenium WebDriver, JUnit, TestNG, and Cucumber. I'm excited about applying what I learn in real-world projects and collaborating with like-minded individuals.
 <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
